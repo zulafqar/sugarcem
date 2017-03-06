@@ -60,9 +60,9 @@ $manifest = array (
   'icon' => '',
   'is_uninstallable' => true,
   'name' => 'CustomModules',
-  'published_date' => '2017-03-03 11:42:37',
+  'published_date' => '2017-03-06 10:52:37',
   'type' => 'module',
-  'version' => 1488541358,
+  'version' => 1488797557,
   'remove_tables' => 'prompt',
 );
 
@@ -73,9 +73,9 @@ $installdefs = array (
   array (
     0 => 
     array (
-      'module' => 'cm_custom_module',
-      'class' => 'cm_custom_module',
-      'path' => 'modules/cm_custom_module/cm_custom_module.php',
+      'module' => 'cm_Test',
+      'class' => 'cm_Test',
+      'path' => 'modules/cm_Test/cm_Test.php',
       'tab' => true,
     ),
   ),
@@ -83,15 +83,15 @@ $installdefs = array (
   array (
     0 => 
     array (
-      'from' => '<basepath>/SugarModules/relationships/layoutdefs/cm_custom_module_users_cm_custom_module.php',
-      'to_module' => 'cm_custom_module',
+      'from' => '<basepath>/SugarModules/relationships/layoutdefs/cm_test_users_cm_Test.php',
+      'to_module' => 'cm_Test',
     ),
   ),
   'relationships' => 
   array (
     0 => 
     array (
-      'meta_data' => '<basepath>/SugarModules/relationships/relationships/cm_custom_module_usersMetaData.php',
+      'meta_data' => '<basepath>/SugarModules/relationships/relationships/cm_test_usersMetaData.php',
     ),
   ),
   'image_dir' => '<basepath>/icons',
@@ -99,8 +99,8 @@ $installdefs = array (
   array (
     0 => 
     array (
-      'from' => '<basepath>/SugarModules/modules/cm_custom_module',
-      'to' => 'modules/cm_custom_module',
+      'from' => '<basepath>/SugarModules/modules/cm_Test',
+      'to' => 'modules/cm_Test',
     ),
   ),
   'language' => 
@@ -113,8 +113,8 @@ $installdefs = array (
     ),
     1 => 
     array (
-      'from' => '<basepath>/SugarModules/relationships/language/cm_custom_module.php',
-      'to_module' => 'cm_custom_module',
+      'from' => '<basepath>/SugarModules/relationships/language/cm_Test.php',
+      'to_module' => 'cm_Test',
       'language' => 'en_us',
     ),
     2 => 
@@ -128,13 +128,13 @@ $installdefs = array (
   array (
     0 => 
     array (
-      'from' => '<basepath>/SugarModules/relationships/vardefs/cm_custom_module_users_Users.php',
+      'from' => '<basepath>/SugarModules/relationships/vardefs/cm_test_users_Users.php',
       'to_module' => 'Users',
     ),
     1 => 
     array (
-      'from' => '<basepath>/SugarModules/relationships/vardefs/cm_custom_module_users_cm_custom_module.php',
-      'to_module' => 'cm_custom_module',
+      'from' => '<basepath>/SugarModules/relationships/vardefs/cm_test_users_cm_Test.php',
+      'to_module' => 'cm_Test',
     ),
   ),
   'layoutfields' => 
@@ -143,7 +143,7 @@ $installdefs = array (
     array (
       'additional_fields' => 
       array (
-        'Users' => 'cm_custom_module_users_name',
+        'Users' => 'cm_test_users_name',
       ),
     ),
   ),

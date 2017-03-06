@@ -4442,27 +4442,27 @@
     'join_key_lhs' => 'document_id',
     'join_key_rhs' => 'bug_id',
   ),
-  'cm_custom_module_users' => 
+  'cm_test_users' => 
   array (
-    'name' => 'cm_custom_module_users',
+    'name' => 'cm_test_users',
     'true_relationship_type' => 'one-to-many',
     'relationships' => 
     array (
-      'cm_custom_module_users' => 
+      'cm_test_users' => 
       array (
-        'lhs_module' => 'cm_custom_module',
-        'lhs_table' => 'cm_custom_module',
+        'lhs_module' => 'cm_Test',
+        'lhs_table' => 'cm_test',
         'lhs_key' => 'id',
         'rhs_module' => 'Users',
         'rhs_table' => 'users',
         'rhs_key' => 'id',
         'relationship_type' => 'many-to-many',
-        'join_table' => 'cm_custom_module_users_c',
-        'join_key_lhs' => 'cm_custom_module_userscm_custom_module_ida',
-        'join_key_rhs' => 'cm_custom_module_usersusers_idb',
+        'join_table' => 'cm_test_users_c',
+        'join_key_lhs' => 'cm_test_userscm_test_ida',
+        'join_key_rhs' => 'cm_test_usersusers_idb',
       ),
     ),
-    'table' => 'cm_custom_module_users_c',
+    'table' => 'cm_test_users_c',
     'fields' => 
     array (
       0 => 
@@ -4486,13 +4486,13 @@
       ),
       3 => 
       array (
-        'name' => 'cm_custom_module_userscm_custom_module_ida',
+        'name' => 'cm_test_userscm_test_ida',
         'type' => 'varchar',
         'len' => 36,
       ),
       4 => 
       array (
-        'name' => 'cm_custom_module_usersusers_idb',
+        'name' => 'cm_test_usersusers_idb',
         'type' => 'varchar',
         'len' => 36,
       ),
@@ -4501,7 +4501,7 @@
     array (
       0 => 
       array (
-        'name' => 'cm_custom_module_usersspk',
+        'name' => 'cm_test_usersspk',
         'type' => 'primary',
         'fields' => 
         array (
@@ -4510,33 +4510,33 @@
       ),
       1 => 
       array (
-        'name' => 'cm_custom_module_users_ida1',
+        'name' => 'cm_test_users_ida1',
         'type' => 'index',
         'fields' => 
         array (
-          0 => 'cm_custom_module_userscm_custom_module_ida',
+          0 => 'cm_test_userscm_test_ida',
         ),
       ),
       2 => 
       array (
-        'name' => 'cm_custom_module_users_alt',
+        'name' => 'cm_test_users_alt',
         'type' => 'alternate_key',
         'fields' => 
         array (
-          0 => 'cm_custom_module_usersusers_idb',
+          0 => 'cm_test_usersusers_idb',
         ),
       ),
     ),
-    'lhs_module' => 'cm_custom_module',
-    'lhs_table' => 'cm_custom_module',
+    'lhs_module' => 'cm_Test',
+    'lhs_table' => 'cm_test',
     'lhs_key' => 'id',
     'rhs_module' => 'Users',
     'rhs_table' => 'users',
     'rhs_key' => 'id',
     'relationship_type' => 'many-to-many',
-    'join_table' => 'cm_custom_module_users_c',
-    'join_key_lhs' => 'cm_custom_module_userscm_custom_module_ida',
-    'join_key_rhs' => 'cm_custom_module_usersusers_idb',
+    'join_table' => 'cm_test_users_c',
+    'join_key_lhs' => 'cm_test_userscm_test_ida',
+    'join_key_rhs' => 'cm_test_usersusers_idb',
   ),
   'user_direct_reports' => 
   array (
@@ -7059,36 +7059,36 @@
     'rhs_key' => 'assigned_user_id',
     'relationship_type' => 'one-to-many',
   ),
-  'cm_custom_module_modified_user' => 
+  'cm_test_modified_user' => 
   array (
-    'name' => 'cm_custom_module_modified_user',
+    'name' => 'cm_test_modified_user',
     'lhs_module' => 'Users',
     'lhs_table' => 'users',
     'lhs_key' => 'id',
-    'rhs_module' => 'cm_custom_module',
-    'rhs_table' => 'cm_custom_module',
+    'rhs_module' => 'cm_Test',
+    'rhs_table' => 'cm_test',
     'rhs_key' => 'modified_user_id',
     'relationship_type' => 'one-to-many',
   ),
-  'cm_custom_module_created_by' => 
+  'cm_test_created_by' => 
   array (
-    'name' => 'cm_custom_module_created_by',
+    'name' => 'cm_test_created_by',
     'lhs_module' => 'Users',
     'lhs_table' => 'users',
     'lhs_key' => 'id',
-    'rhs_module' => 'cm_custom_module',
-    'rhs_table' => 'cm_custom_module',
+    'rhs_module' => 'cm_Test',
+    'rhs_table' => 'cm_test',
     'rhs_key' => 'created_by',
     'relationship_type' => 'one-to-many',
   ),
-  'cm_custom_module_assigned_user' => 
+  'cm_test_assigned_user' => 
   array (
-    'name' => 'cm_custom_module_assigned_user',
+    'name' => 'cm_test_assigned_user',
     'lhs_module' => 'Users',
     'lhs_table' => 'users',
     'lhs_key' => 'id',
-    'rhs_module' => 'cm_custom_module',
-    'rhs_table' => 'cm_custom_module',
+    'rhs_module' => 'cm_Test',
+    'rhs_table' => 'cm_test',
     'rhs_key' => 'assigned_user_id',
     'relationship_type' => 'one-to-many',
   ),

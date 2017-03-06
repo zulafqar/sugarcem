@@ -1,5 +1,5 @@
 <?php
-// created: 2017-03-03 11:42:38
+// created: 2017-03-06 10:28:24
 $dictionary["cm_custom_module_users"] = array (
   'true_relationship_type' => 'one-to-many',
   'relationships' => 

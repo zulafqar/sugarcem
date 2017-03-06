@@ -1,5 +1,5 @@
 <?php
- // created: 2017-03-03 11:42:38
+ // created: 2017-03-06 10:28:24
 $layout_defs["cm_custom_module"]["subpanel_setup"]['cm_custom_module_users'] = array (
   'order' => 100,
   'module' => 'Users',

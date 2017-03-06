@@ -37,3 +37,4 @@
 
 $app_list_strings['moduleList']['cm_cm_custom_module'] = 'Custom Module';
 $app_list_strings['moduleList']['cm_custom_module'] = 'Custom Module';
+$app_list_strings['moduleList']['cm_Test'] = 'Test Module';

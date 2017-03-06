@@ -3,7 +3,7 @@
 
  
  //WARNING: The contents of this file are auto-generated
-include('custom/metadata/cm_custom_module_usersMetaData.php');
+include('custom/metadata/cm_test_usersMetaData.php');
 
 
 ?>

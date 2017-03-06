@@ -63,8 +63,7 @@ array (
           ),
           1 => 
           array (
-            'name' => 'cm_custom_module_users_name',
-            'label' => 'LBL_CM_CUSTOM_MODULE_USERS_FROM_CM_CUSTOM_MODULE_TITLE',
+            'name' => 'cm_test_users_name',
           ),
         ),
       ),

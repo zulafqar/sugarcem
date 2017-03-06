@@ -718,39 +718,39 @@
       'source' => 'non-db',
       'vname' => 'LBL_PROJECTS',
     ),
-    'cm_custom_module_users' => 
+    'cm_test_users' => 
     array (
-      'name' => 'cm_custom_module_users',
+      'name' => 'cm_test_users',
       'type' => 'link',
-      'relationship' => 'cm_custom_module_users',
+      'relationship' => 'cm_test_users',
       'source' => 'non-db',
-      'module' => 'cm_custom_module',
-      'bean_name' => 'cm_custom_module',
-      'vname' => 'LBL_CM_CUSTOM_MODULE_USERS_FROM_CM_CUSTOM_MODULE_TITLE',
-      'id_name' => 'cm_custom_module_userscm_custom_module_ida',
+      'module' => 'cm_Test',
+      'bean_name' => false,
+      'vname' => 'LBL_CM_TEST_USERS_FROM_CM_TEST_TITLE',
+      'id_name' => 'cm_test_userscm_test_ida',
     ),
-    'cm_custom_module_users_name' => 
+    'cm_test_users_name' => 
     array (
-      'name' => 'cm_custom_module_users_name',
+      'name' => 'cm_test_users_name',
       'type' => 'relate',
       'source' => 'non-db',
-      'vname' => 'LBL_CM_CUSTOM_MODULE_USERS_FROM_CM_CUSTOM_MODULE_TITLE',
+      'vname' => 'LBL_CM_TEST_USERS_FROM_CM_TEST_TITLE',
       'save' => true,
-      'id_name' => 'cm_custom_module_userscm_custom_module_ida',
-      'link' => 'cm_custom_module_users',
-      'table' => 'cm_custom_module',
-      'module' => 'cm_custom_module',
+      'id_name' => 'cm_test_userscm_test_ida',
+      'link' => 'cm_test_users',
+      'table' => 'cm_test',
+      'module' => 'cm_Test',
       'rname' => 'name',
     ),
-    'cm_custom_module_userscm_custom_module_ida' => 
+    'cm_test_userscm_test_ida' => 
     array (
-      'name' => 'cm_custom_module_userscm_custom_module_ida',
+      'name' => 'cm_test_userscm_test_ida',
       'type' => 'link',
-      'relationship' => 'cm_custom_module_users',
+      'relationship' => 'cm_test_users',
       'source' => 'non-db',
       'reportable' => false,
       'side' => 'right',
-      'vname' => 'LBL_CM_CUSTOM_MODULE_USERS_FROM_USERS_TITLE',
+      'vname' => 'LBL_CM_TEST_USERS_FROM_USERS_TITLE',
     ),
   ),
   'indices' => 

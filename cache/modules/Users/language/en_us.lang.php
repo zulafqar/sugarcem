@@ -1,5 +1,5 @@
 <?php
-// created: 2017-03-03 11:55:04
+// created: 2017-03-06 11:03:14
 $mod_strings = array (
   'LBL_DELETE_USER_CONFIRM' => 'When the User record is deleted, the corresponding Employee record will also be deleted.<br/><br/>Click OK to delete the User record.',
   'LBL_DELETE_GROUP_CONFIRM' => 'Are you sure you want to delete this Group User? Click OK to delete the User record.<br/>After clicking OK, you will be given the ability to reassign records assigned to the Group User to another user.',
@@ -498,4 +498,5 @@ If you are not setting up Inbound Email, please clear all fields in that section
   'LBL_SHOWOPTIONS' => 'Show Options',
   'LBL_CM_CM_CUSTOM_MODULE_USERS_FROM_CM_CM_CUSTOM_MODULE_TITLE' => 'Custom Module',
   'LBL_CM_CUSTOM_MODULE_USERS_FROM_CM_CUSTOM_MODULE_TITLE' => 'Custom Module',
+  'LBL_CM_TEST_USERS_FROM_CM_TEST_TITLE' => 'Test Module',
 );

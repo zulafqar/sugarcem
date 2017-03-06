@@ -1,5 +1,5 @@
 <?php
-// created: 2017-03-03 11:42:38
+// created: 2017-03-06 10:28:24
 $dictionary["cm_custom_module"]["fields"]["cm_custom_module_users"] = array (
   'name' => 'cm_custom_module_users',
   'type' => 'link',
