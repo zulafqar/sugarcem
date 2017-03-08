@@ -2,313 +2,135 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3d94c49a-2dcc-4453-b388-72410ab649da" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/dashlets/dashlets.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/include/externalAPI.cache.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/include/externalAPI.cache.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/jsLanguage/Accounts/en_us.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/jsLanguage/Calls/en_us.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/jsLanguage/Campaigns/en_us.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/jsLanguage/Contacts/en_us.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/jsLanguage/Employees/en_us.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/jsLanguage/Studio/en_us.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/jsLanguage/Users/en_us.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/modules/Accounts/DetailView.tpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/modules/Accounts/Popup.tpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/modules/Accounts/SearchForm_popup_query_form.tpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/modules/Accounts/form_QuickCreate_Accounts.tpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/modules/Calls/DetailView.tpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/modules/Calls/SearchFormFooter.tpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/modules/Calls/SearchFormHeader.tpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/modules/Calls/SearchForm_basic.tpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/modules/CampaignLog/language/en_us.lang.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/modules/Campaigns/Popup.tpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/modules/Campaigns/SearchForm_popup_query_form.tpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/modules/Contacts/DetailView.tpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/modules/Contacts/EditView.tpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/modules/Contacts/SearchFormFooter.tpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/modules/Contacts/SearchFormHeader.tpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/modules/Contacts/SearchForm_advanced.tpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/modules/Contacts/SearchForm_basic.tpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/modules/Employees/DetailView.tpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/modules/Employees/language/en_us.lang.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/modules/Studio/language/en_us.lang.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/modules/SugarFeed/linkTypeCache.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/modules/SugarFeed/moduleCache.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/modules/Users/Popup.tpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/modules/Users/SearchForm_popup_query_form.tpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/modules/cm_custom_module/DetailView.tpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/modules/cm_custom_module/EditView.tpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/modules/cm_custom_module/SearchFormFooter.tpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/modules/cm_custom_module/SearchFormHeader.tpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/modules/cm_custom_module/SearchForm_advanced.tpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/modules/cm_custom_module/SearchForm_basic.tpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/modules/cm_custom_module/cm_custom_modulevardefs.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/modules/cm_custom_module/language/en_us.lang.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/templates_c/%%00^00A^00A21BAE%%EditAllBody.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/templates_c/%%00^00D^00DD34E7%%listView.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/templates_c/%%07^07B^07B7FFED%%ConfigureTabs.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/templates_c/%%0B^0B4^0B4B31F9%%SearchFormFooter.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/templates_c/%%0D^0D3^0D36D75B%%SearchForm_popup_query_form.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/templates_c/%%0D^0DC^0DC8D87E%%SearchFormHeader.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/templates_c/%%0E^0E5^0E553FD7%%SearchForm_basic.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/templates_c/%%0E^0EA^0EAB2E44%%DetailView.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/templates_c/%%0E^0EB^0EB12087%%Studio.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/templates_c/%%11^113^113CB5C1%%forDetailView.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/templates_c/%%14^148^14804A90%%DashletGenericDisplay.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/templates_c/%%16^16A^16AB0582%%studioRelationships.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/templates_c/%%1A^1A1^1A11D6C0%%EditView.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/templates_c/%%1A^1A9^1A99AB88%%PopupGeneric.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/templates_c/%%1B^1B5^1B5DAC11%%SearchFormFooter.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/templates_c/%%1C^1C4^1C4412FF%%_baseEmail.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/templates_c/%%1C^1C8^1C895832%%header.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/templates_c/%%1E^1E2^1E23106B%%EditView.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/templates_c/%%20^20D^20D2C45B%%DetailView.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/templates_c/%%23^232^23224CF6%%EditView.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/templates_c/%%24^24E^24E0F32F%%SearchForm_basic.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/templates_c/%%25^250^25073443%%ListView.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/templates_c/%%26^26C^26CC8814%%DetailView.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/templates_c/%%26^26C^26CDD3C8%%EditViewBody.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/templates_c/%%27^277^277D1486%%SearchFormHeader.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/templates_c/%%2A^2AB^2AB65FE5%%DetailViewHeader.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/templates_c/%%2B^2BE^2BE59783%%outboundDialogTest.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/templates_c/%%2D^2D2^2D219E61%%EditView.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/templates_c/%%2E^2E0^2E022CCA%%relate.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/templates_c/%%2E^2E6^2E67CDDA%%_baseJsVars.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/templates_c/%%31^318^3185443E%%vardef.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/templates_c/%%35^359^359DFA93%%MySugar.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/templates_c/%%39^393^393A7F78%%advancedSearch.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/templates_c/%%3A^3A8^3A80F1B1%%deploy.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/templates_c/%%3D^3D8^3D8BA76D%%DetailViewUser.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/templates_c/%%3D^3DD^3DDB617D%%module.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/templates_c/%%3F^3F7^3F779516%%outboundDialog.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/templates_c/%%42^422^422F5BF5%%RangeSearchForm.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/templates_c/%%43^433^43364BB2%%EditView.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/templates_c/%%43^43B^43B652F4%%EditView.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/templates_c/%%46^46A^46A51E2B%%SearchFormHeader.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/templates_c/%%47^472^472B27CC%%forEditView.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/templates_c/%%48^48C^48C763E8%%DetailView.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/templates_c/%%49^49D^49DDFF28%%EditView.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/templates_c/%%4A^4A2^4A2881DD%%SearchFormHeader.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/templates_c/%%4A^4A5^4A5E1962%%SearchFormFooter.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/templates_c/%%4B^4B7^4B7A2B22%%SearchFormHeader.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/templates_c/%%4C^4CF^4CFA6932%%SearchFormHeader.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/templates_c/%%4F^4FB^4FB70805%%EditViewFunction.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/templates_c/%%50^502^5029E996%%SearchFormFooter.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/templates_c/%%50^50A^50A40F48%%EditView.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/templates_c/%%57^570^57078B51%%DetailViewBody.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/templates_c/%%57^579^579D3490%%SearchFormFooter.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/templates_c/%%59^59A^59A6BEBA%%SearchForm_advanced.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/templates_c/%%5A^5AA^5AADD1D5%%text.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/templates_c/%%5C^5C2^5C23B51C%%index.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/templates_c/%%5E^5E1^5E11BCCF%%DetailView.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/templates_c/%%5E^5EA^5EA8817E%%SearchFormFooter.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/templates_c/%%5F^5FA^5FAF8F1A%%SearchFormFooter.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/templates_c/%%60^60A^60AEE1A6%%labels.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/templates_c/%%61^615^6150AD87%%SearchForm_popup_query_form.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/templates_c/%%61^619^619B4029%%DetailView.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/templates_c/%%61^61A^61A04A66%%Popup.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/templates_c/%%62^625^62520073%%SearchForm_basic.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/templates_c/%%62^625^625D9540%%includes.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/templates_c/%%63^630^6300AA8C%%SearchForm_basic.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/templates_c/%%65^65D^65D24263%%SearchForm_basic.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/templates_c/%%66^663^663462F8%%login.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/templates_c/%%69^690^69038FFA%%InsideView.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/templates_c/%%69^699^69963924%%emailSettingsFolders.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/templates_c/%%6A^6A7^6A77154A%%overlay.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/templates_c/%%6C^6C8^6C86D2E9%%form_SubpanelQuickCreate_Tasks.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/templates_c/%%6E^6E6^6E660519%%SearchForm_popup_query_form.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/templates_c/%%6F^6F8^6F8D357A%%SearchForm_basic.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/templates_c/%%72^721^721377BE%%EditView.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/templates_c/%%73^733^73365934%%EditView.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/templates_c/%%74^74F^74FBB9DE%%DashletGenericAutoRefresh.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/templates_c/%%78^781^7818DC44%%addressSearch.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/templates_c/%%7A^7A5^7A5A7923%%Popup.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/templates_c/%%7B^7B6^7B6657FB%%DetailView.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/templates_c/%%7E^7E6^7E6D2562%%EditView.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/templates_c/%%80^805^805F17C9%%DetailView.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/templates_c/%%80^80B^80B2F616%%SearchForm_basic.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/templates_c/%%82^82F^82F8B47F%%DetailView.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/templates_c/%%87^870^87062B10%%SearchForm_basic.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/templates_c/%%8B^8B0^8B0EC606%%EditView.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/templates_c/%%8B^8B1^8B10CA1B%%ListView.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/templates_c/%%8B^8B3^8B3EDACC%%fields.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/templates_c/%%8E^8E3^8E339EFE%%SearchForm_basic.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/templates_c/%%8F^8F3^8F34909A%%SearchForm_basic.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/templates_c/%%8F^8FE^8FE02532%%wizard.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/templates_c/%%98^98D^98D95D15%%editAccountDialogue.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/templates_c/%%98^98E^98ED8C13%%emailSettingsGeneral.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/templates_c/%%9A^9AC^9AC506E2%%SearchForm_basic.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/templates_c/%%9E^9E8^9E86E725%%emailSettingsAccountDetails.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/templates_c/%%A1^A11^A118CA22%%package.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/templates_c/%%A3^A32^A326D739%%DetailView.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/templates_c/%%A6^A61^A61CBBCB%%SearchFormHeader.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/templates_c/%%A6^A69^A691134E%%addressSearchContent.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/templates_c/%%A7^A71^A71BB5AF%%SearchFormHeader.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/templates_c/%%A7^A72^A729B342%%field.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/templates_c/%%A9^A99^A99ADD47%%SearchFormHeader.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/templates_c/%%AC^AC6^AC6B5ED3%%assignTo.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/templates_c/%%AE^AE2^AE2E0041%%SearchFormHeader.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/templates_c/%%AE^AE9^AE9373ED%%SugarFeedScript.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/templates_c/%%AF^AF8^AF83B1AA%%form_SubpanelQuickCreate_Notes.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/templates_c/%%B0^B0C^B0C26FA2%%UserPostForm.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/templates_c/%%B2^B2C^B2C91FF3%%SearchFormFooter.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/templates_c/%%B2^B2D^B2D58405%%adminwizard.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/templates_c/%%B3^B39^B39BB50C%%SearchFormFooter.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/templates_c/%%B3^B3E^B3ED2DB3%%SearchFormHeader.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/templates_c/%%B4^B43^B4351F55%%wizard.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/templates_c/%%B5^B54^B5495DE3%%SearchFormFooter.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/templates_c/%%B5^B55^B5564C02%%DetailViewFunction.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/templates_c/%%B8^B82^B8281647%%DetailView.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/templates_c/%%B8^B8B^B8B2C450%%ListView.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/templates_c/%%BF^BF1^BF162AFA%%SearchFormFooter.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/templates_c/%%C5^C5D^C5D8AC31%%detailHeader.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/templates_c/%%C7^C7E^C7E346C7%%reminders.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/templates_c/%%CA^CAC^CACCAB14%%SearchView.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/templates_c/%%CB^CBC^CBC6B391%%SearchForm_basic.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/templates_c/%%CD^CD7^CD77D0D3%%SearchFormGenericAdvanced.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/templates_c/%%CF^CFB^CFB67CCC%%DetailView.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/templates_c/%%D1^D18^D18B02E6%%SavedSearchForm.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/templates_c/%%D3^D3C^D3CE6F09%%form_QuickCreate_Accounts.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/templates_c/%%D4^D4C^D4CD4535%%DeveloperClass.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/templates_c/%%D8^D8B^D8B6F6DD%%DetailView.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/templates_c/%%D8^D8F^D8F13C84%%DetailView.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/templates_c/%%D9^D94^D94086B0%%coreTop.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/templates_c/%%DA^DA2^DA26040D%%Popup.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/templates_c/%%DB^DBD^DBD02E79%%SearchForm_basic.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/templates_c/%%DD^DD3^DD394259%%EditView.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/templates_c/%%DE^DE0^DE03A2E7%%EditView.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/templates_c/%%DE^DE7^DE77CA9F%%EditView.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/templates_c/%%DE^DEC^DECE2057%%SearchFormFooter.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/templates_c/%%E0^E08^E08152C7%%studioRelationship.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/templates_c/%%E1^E1D^E1D7BD9F%%DetailView.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/templates_c/%%E2^E21^E21E7AA8%%SearchForm_advanced.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/templates_c/%%E2^E2E^E2EE98C0%%SearchFormHeader.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/templates_c/%%E3^E33^E33DE81A%%emailSettingsAccounts.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/templates_c/%%E4^E47^E47AE4C6%%EditViewTabs.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/templates_c/%%E4^E48^E484C8D7%%DetailView.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/templates_c/%%E4^E4B^E4B5410B%%SearchView.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/templates_c/%%E5^E53^E53A6CE3%%footer.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/templates_c/%%E9^E95^E955F532%%SearchView.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/templates_c/%%EE^EEE^EEE56851%%SearchForm_advanced.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/templates_c/%%EE^EEF^EEF5B761%%DetailView.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/templates_c/%%F0^F0F^F0FAB5FE%%coreBottom.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/templates_c/%%F1^F14^F14E2A3B%%varchar.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/templates_c/%%F2^F2F^F2F80528%%SearchFormHeader.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/templates_c/%%F3^F3A^F3A0A505%%Class.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/templates_c/%%F4^F47^F47BECAF%%SearchFormFooter.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/templates_c/%%F7^F72^F72494CE%%DetailView.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/templates_c/%%F9^F91^F9140B64%%layoutView.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/templates_c/%%FA^FA9^FA9EA62F%%DetailView.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/templates_c/%%FC^FC8^FC81D4D6%%emailSettings.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/templates_c/%%FD^FDC^FDC56A9E%%_baseConfigData.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/templates_c/%%FF^FFC^FFC45CDF%%assistantJavascript.tpl.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/custom/Extension/application/Ext/TableDictionary/cm_custom_module_users.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/custom/Extension/modules/Users/Ext/Vardefs/cm_custom_module_users_Users.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/custom/Extension/modules/cm_custom_module/Ext/Language/en_us.CustomModules.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/custom/Extension/modules/cm_custom_module/Ext/Layoutdefs/cm_custom_module_users_cm_custom_module.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/custom/Extension/modules/cm_custom_module/Ext/Vardefs/cm_custom_module_users_cm_custom_module.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/custom/metadata/cm_custom_module_usersMetaData.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/custom/modulebuilder/builds/CustomModules/SugarModules/modules/cm_cm_custom_module/Dashlets/cm_cm_custom_moduleDashlet/cm_cm_custom_moduleDashlet.meta.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/custom/modulebuilder/builds/CustomModules/SugarModules/modules/cm_cm_custom_module/Dashlets/cm_cm_custom_moduleDashlet/cm_cm_custom_moduleDashlet.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/custom/modulebuilder/builds/CustomModules/SugarModules/modules/cm_cm_custom_module/cm_cm_custom_module.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/custom/modulebuilder/builds/CustomModules/SugarModules/modules/cm_cm_custom_module/cm_cm_custom_module_sugar.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/custom/modulebuilder/builds/CustomModules/SugarModules/modules/cm_cm_custom_module/language/en_us.lang.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/custom/modulebuilder/builds/CustomModules/SugarModules/modules/cm_cm_custom_module/metadata/SearchFields.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/custom/modulebuilder/builds/CustomModules/SugarModules/modules/cm_cm_custom_module/metadata/dashletviewdefs.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/custom/modulebuilder/builds/CustomModules/SugarModules/modules/cm_cm_custom_module/metadata/detailviewdefs.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/custom/modulebuilder/builds/CustomModules/SugarModules/modules/cm_cm_custom_module/metadata/editviewdefs.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/custom/modulebuilder/builds/CustomModules/SugarModules/modules/cm_cm_custom_module/metadata/listviewdefs.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/custom/modulebuilder/builds/CustomModules/SugarModules/modules/cm_cm_custom_module/metadata/metafiles.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/custom/modulebuilder/builds/CustomModules/SugarModules/modules/cm_cm_custom_module/metadata/popupdefs.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/custom/modulebuilder/builds/CustomModules/SugarModules/modules/cm_cm_custom_module/metadata/quickcreatedefs.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/custom/modulebuilder/builds/CustomModules/SugarModules/modules/cm_cm_custom_module/metadata/searchdefs.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/custom/modulebuilder/builds/CustomModules/SugarModules/modules/cm_cm_custom_module/metadata/studio.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/custom/modulebuilder/builds/CustomModules/SugarModules/modules/cm_cm_custom_module/metadata/subpanels/default.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/custom/modulebuilder/builds/CustomModules/SugarModules/modules/cm_cm_custom_module/vardefs.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/custom/modulebuilder/builds/CustomModules/SugarModules/modules/cm_custom_module/Dashlets/cm_custom_moduleDashlet/cm_custom_moduleDashlet.meta.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/custom/modulebuilder/builds/CustomModules/SugarModules/modules/cm_custom_module/Dashlets/cm_custom_moduleDashlet/cm_custom_moduleDashlet.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/custom/modulebuilder/builds/CustomModules/SugarModules/modules/cm_custom_module/cm_custom_module.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/custom/modulebuilder/builds/CustomModules/SugarModules/modules/cm_custom_module/cm_custom_module_sugar.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/custom/modulebuilder/builds/CustomModules/SugarModules/modules/cm_custom_module/language/en_us.lang.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/custom/modulebuilder/builds/CustomModules/SugarModules/modules/cm_custom_module/metadata/SearchFields.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/custom/modulebuilder/builds/CustomModules/SugarModules/modules/cm_custom_module/metadata/dashletviewdefs.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/custom/modulebuilder/builds/CustomModules/SugarModules/modules/cm_custom_module/metadata/detailviewdefs.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/custom/modulebuilder/builds/CustomModules/SugarModules/modules/cm_custom_module/metadata/editviewdefs.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/custom/modulebuilder/builds/CustomModules/SugarModules/modules/cm_custom_module/metadata/listviewdefs.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/custom/modulebuilder/builds/CustomModules/SugarModules/modules/cm_custom_module/metadata/metafiles.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/custom/modulebuilder/builds/CustomModules/SugarModules/modules/cm_custom_module/metadata/popupdefs.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/custom/modulebuilder/builds/CustomModules/SugarModules/modules/cm_custom_module/metadata/quickcreatedefs.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/custom/modulebuilder/builds/CustomModules/SugarModules/modules/cm_custom_module/metadata/searchdefs.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/custom/modulebuilder/builds/CustomModules/SugarModules/modules/cm_custom_module/metadata/studio.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/custom/modulebuilder/builds/CustomModules/SugarModules/modules/cm_custom_module/metadata/subpanels/default.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/custom/modulebuilder/builds/CustomModules/SugarModules/modules/cm_custom_module/vardefs.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/custom/modulebuilder/packages/CustomModules/modules/custom_module/Dashlets/cm_custom_moduleDashlet/cm_custom_moduleDashlet.meta.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/custom/modulebuilder/packages/CustomModules/modules/custom_module/Dashlets/cm_custom_moduleDashlet/cm_custom_moduleDashlet.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/custom/modulebuilder/packages/CustomModules/modules/custom_module/config.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/custom/modulebuilder/packages/CustomModules/modules/custom_module/language/en_us.lang.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/custom/modulebuilder/packages/CustomModules/modules/custom_module/metadata/SearchFields.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/custom/modulebuilder/packages/CustomModules/modules/custom_module/metadata/dashletviewdefs.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/custom/modulebuilder/packages/CustomModules/modules/custom_module/metadata/detailviewdefs.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/custom/modulebuilder/packages/CustomModules/modules/custom_module/metadata/editviewdefs.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/custom/modulebuilder/packages/CustomModules/modules/custom_module/metadata/listviewdefs.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/custom/modulebuilder/packages/CustomModules/modules/custom_module/metadata/metafiles.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/custom/modulebuilder/packages/CustomModules/modules/custom_module/metadata/popupdefs.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/custom/modulebuilder/packages/CustomModules/modules/custom_module/metadata/quickcreatedefs.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/custom/modulebuilder/packages/CustomModules/modules/custom_module/metadata/searchdefs.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/custom/modulebuilder/packages/CustomModules/modules/custom_module/metadata/subpanels/default.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/custom/modulebuilder/packages/CustomModules/modules/custom_module/relationships.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/custom/modulebuilder/packages/CustomModules/modules/custom_module/vardefs.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/custom/modules/cm_custom_module/Ext/Language/en_us.lang.ext.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/custom/modules/cm_custom_module/Ext/Layoutdefs/layoutdefs.ext.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/custom/modules/cm_custom_module/Ext/Vardefs/vardefs.ext.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/cm_custom_module/Dashlets/cm_custom_moduleDashlet/cm_custom_moduleDashlet.meta.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/cm_custom_module/Dashlets/cm_custom_moduleDashlet/cm_custom_moduleDashlet.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/cm_custom_module/cm_custom_module.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/cm_custom_module/cm_custom_module_sugar.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/cm_custom_module/language/en_us.lang.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/cm_custom_module/metadata/SearchFields.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/cm_custom_module/metadata/dashletviewdefs.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/cm_custom_module/metadata/detailviewdefs.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/cm_custom_module/metadata/editviewdefs.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/cm_custom_module/metadata/listviewdefs.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/cm_custom_module/metadata/metafiles.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/cm_custom_module/metadata/popupdefs.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/cm_custom_module/metadata/quickcreatedefs.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/cm_custom_module/metadata/searchdefs.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/cm_custom_module/metadata/studio.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/cm_custom_module/metadata/subpanels/default.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/cm_custom_module/vardefs.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/upload/upgrades/module/CustomModules2017_03_03_114238-manifest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/upload/upgrades/module/CustomModules2017_03_03_114238.zip" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/custom/Extension/modules/Opportunities/Ext/Vardefs/current_time_c.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/custom/modules/Opportunities/Ext/GetCurrentTime.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/custom/modules/Opportunities/Ext/Vardefs/vardefs.ext.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/custom/modules/Opportunities/metadata/listviewdefs.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/custom/modules/Test/Test.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/custom/modules/Test/language/en_us.lang.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/custom/modules/Test/metadata/detailviewdefs.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/custom/modules/Test/metadata/editviewdefs.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/custom/modules/Test/metadata/listviewdefs.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/custom/modules/Test/vardefs.php" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/Relationships/relationships.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/csv/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/feeds/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/htmlclean/HTML/4.3.0,1a6019117d2111c6b9c8148754b96937,2.ser" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/htmlclean/URI/4.3.0,21273f9ceec2c1825fee28960130b1ef,1.ser" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/images/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/import/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/include/javascript/sugar_field_grp.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/include/javascript/sugar_grp1.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/include/javascript/sugar_grp1_jquery.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/include/javascript/sugar_grp1_yui.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/include/javascript/sugar_grp_emails.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/include/javascript/sugar_grp_jsolait.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/include/javascript/sugar_grp_quickcomp.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/include/javascript/sugar_grp_yui2.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/include/javascript/sugar_grp_yui_widgets.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/include/javascript/sugar_grp_yui_widgets.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/jsLanguage/Administration/en_us.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/jsLanguage/en_us.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/layout/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/modules/ACLActions/ACLActionvardefs.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/modules/ACLRoles/ACLRolevardefs.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/modules/Accounts/Accountvardefs.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/modules/Accounts/language/en_us.lang.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/modules/Administration/Administrationvardefs.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/modules/Administration/UpgradeHistoryvardefs.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/modules/Administration/language/en_us.lang.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/modules/Bugs/Bugvardefs.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/modules/Bugs/language/en_us.lang.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/modules/Calls/Callvardefs.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/modules/Calls/language/en_us.lang.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/modules/CampaignLog/CampaignLogvardefs.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/modules/CampaignTrackers/CampaignTrackervardefs.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/modules/Campaigns/Campaignvardefs.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/modules/Campaigns/language/en_us.lang.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/modules/Cases/Casevardefs.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/modules/Cases/language/en_us.lang.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/modules/Contacts/Contactvardefs.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/modules/Contacts/language/en_us.lang.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/modules/Currencies/Currencyvardefs.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/modules/DocumentRevisions/DocumentRevisionvardefs.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/modules/Documents/Documentvardefs.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/modules/Documents/language/en_us.lang.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/modules/DynamicFields/FieldsMetaDatavardefs.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/modules/EAPM/EAPMvardefs.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/modules/EmailMan/EmailManvardefs.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/modules/EmailMarketing/EmailMarketingvardefs.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/modules/EmailTemplates/EmailTemplatevardefs.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/modules/EmailText/EmailTextvardefs.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/modules/Emails/Emailvardefs.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/modules/Emails/language/en_us.lang.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/modules/Employees/Employeevardefs.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/modules/Import/ImportMapvardefs.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/modules/Import/UsersLastImportvardefs.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/modules/Import_1/ImportMapvardefs.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/modules/Import_2/UsersLastImportvardefs.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/modules/InboundEmail/InboundEmailvardefs.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/modules/InboundEmail/language/en_us.lang.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/modules/Leads/Leadvardefs.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/modules/Leads/language/en_us.lang.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/modules/Meetings/Meetingvardefs.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/modules/Meetings/language/en_us.lang.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/modules/MergeRecords/MergeRecordvardefs.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/modules/Notes/Notevardefs.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/modules/Notes/language/en_us.lang.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/modules/OAuthKeys/OAuthKeyvardefs.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/modules/OAuthTokens/OAuthTokenvardefs.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/modules/Opportunities/Opportunityvardefs.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/modules/Opportunities/language/en_us.lang.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/modules/Project/Projectvardefs.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/modules/Project/language/en_us.lang.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/modules/ProjectTask/ProjectTaskvardefs.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/modules/ProspectLists/ProspectListvardefs.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/modules/ProspectLists/language/en_us.lang.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/modules/Prospects/Prospectvardefs.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/modules/Prospects/language/en_us.lang.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/modules/Relationships/Relationshipvardefs.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/modules/Relationships/relationships.cache.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/modules/Releases/Releasevardefs.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/modules/Roles/Rolevardefs.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/modules/SavedSearch/SavedSearchvardefs.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/modules/SavedSearch/language/en_us.lang.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/modules/Schedulers/Schedulervardefs.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/modules/SchedulersJobs/SchedulersJobvardefs.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/modules/SugarFeed/SugarFeedvardefs.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/modules/SugarFeed/language/en_us.lang.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/modules/Tasks/Taskvardefs.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/modules/Tasks/language/en_us.lang.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/modules/Trackers/Trackervardefs.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/modules/UserPreferences/UserPreferencevardefs.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/modules/Users/Uservardefs.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/modules/Users/language/en_us.lang.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/modules/Versions/Versionvardefs.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/modules/vCals/vCalvardefs.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/pdf/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/templates_c/%%23^23F^23FF8AFA%%EditView.tpl.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/templates_c/%%3B^3BA^3BABD3B3%%EditView.tpl.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/templates_c/%%66^664^664FA3FD%%PackageManagerScripts.tpl.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/templates_c/%%6C^6CE^6CEFC0A9%%footer.tpl.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/templates_c/%%7C^7C0^7C03C2FE%%footer.tpl.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/templates_c/%%95^955^955CF478%%header.tpl.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/templates_c/%%9A^9A2^9A271045%%index.tpl.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/templates_c/%%D4^D4D^D4D49BFB%%PackageForm.tpl.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/smarty/templates_c/%%FA^FA9^FA908702%%EditView.tpl.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/sprites/Sugar5/sprites.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/sprites/Sugar5/sprites.meta.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/sprites/Sugar5/sprites.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/sprites/default/sprites.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/sprites/default/sprites.meta.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/sprites/default/sprites.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/themes/Sugar5/css/deprecated.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/themes/Sugar5/css/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/themes/Sugar5/css/wizard.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/themes/Sugar5/css/yui.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/themes/Sugar5/js/style-min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/xml/index.html" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/Relationships/relationships.cache.php" afterPath="$PROJECT_DIR$/cache/Relationships/relationships.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/jsLanguage/en_us.js" afterPath="$PROJECT_DIR$/cache/jsLanguage/en_us.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/modules/Accounts/language/en_us.lang.php" afterPath="$PROJECT_DIR$/cache/modules/Accounts/language/en_us.lang.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/modules/Administration/language/en_us.lang.php" afterPath="$PROJECT_DIR$/cache/modules/Administration/language/en_us.lang.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/modules/Bugs/language/en_us.lang.php" afterPath="$PROJECT_DIR$/cache/modules/Bugs/language/en_us.lang.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/modules/Calendar/language/en_us.lang.php" afterPath="$PROJECT_DIR$/cache/modules/Calendar/language/en_us.lang.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/modules/Calls/language/en_us.lang.php" afterPath="$PROJECT_DIR$/cache/modules/Calls/language/en_us.lang.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/modules/Campaigns/language/en_us.lang.php" afterPath="$PROJECT_DIR$/cache/modules/Campaigns/language/en_us.lang.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/modules/Cases/language/en_us.lang.php" afterPath="$PROJECT_DIR$/cache/modules/Cases/language/en_us.lang.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/modules/Contacts/language/en_us.lang.php" afterPath="$PROJECT_DIR$/cache/modules/Contacts/language/en_us.lang.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/modules/Documents/language/en_us.lang.php" afterPath="$PROJECT_DIR$/cache/modules/Documents/language/en_us.lang.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/modules/Emails/language/en_us.lang.php" afterPath="$PROJECT_DIR$/cache/modules/Emails/language/en_us.lang.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/modules/Employees/Employeevardefs.php" afterPath="$PROJECT_DIR$/cache/modules/Employees/Employeevardefs.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/modules/Home/language/en_us.lang.php" afterPath="$PROJECT_DIR$/cache/modules/Home/language/en_us.lang.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/modules/InboundEmail/language/en_us.lang.php" afterPath="$PROJECT_DIR$/cache/modules/InboundEmail/language/en_us.lang.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/modules/Leads/language/en_us.lang.php" afterPath="$PROJECT_DIR$/cache/modules/Leads/language/en_us.lang.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/modules/Meetings/language/en_us.lang.php" afterPath="$PROJECT_DIR$/cache/modules/Meetings/language/en_us.lang.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/modules/Notes/language/en_us.lang.php" afterPath="$PROJECT_DIR$/cache/modules/Notes/language/en_us.lang.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/modules/Opportunities/language/en_us.lang.php" afterPath="$PROJECT_DIR$/cache/modules/Opportunities/language/en_us.lang.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/modules/Project/language/en_us.lang.php" afterPath="$PROJECT_DIR$/cache/modules/Project/language/en_us.lang.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/modules/ProspectLists/language/en_us.lang.php" afterPath="$PROJECT_DIR$/cache/modules/ProspectLists/language/en_us.lang.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/modules/Prospects/language/en_us.lang.php" afterPath="$PROJECT_DIR$/cache/modules/Prospects/language/en_us.lang.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/modules/Relationships/relationships.cache.php" afterPath="$PROJECT_DIR$/cache/modules/Relationships/relationships.cache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/modules/SavedSearch/language/en_us.lang.php" afterPath="$PROJECT_DIR$/cache/modules/SavedSearch/language/en_us.lang.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/modules/SugarFeed/language/en_us.lang.php" afterPath="$PROJECT_DIR$/cache/modules/SugarFeed/language/en_us.lang.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/modules/Tasks/language/en_us.lang.php" afterPath="$PROJECT_DIR$/cache/modules/Tasks/language/en_us.lang.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/modules/Users/Uservardefs.php" afterPath="$PROJECT_DIR$/cache/modules/Users/Uservardefs.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/modules/Users/language/en_us.lang.php" afterPath="$PROJECT_DIR$/cache/modules/Users/language/en_us.lang.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/smarty/templates_c/%%02^028^028621F5%%_head.tpl.php" afterPath="$PROJECT_DIR$/cache/smarty/templates_c/%%02^028^028621F5%%_head.tpl.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/smarty/templates_c/%%03^034^034B9A7D%%DetailView.tpl.php" afterPath="$PROJECT_DIR$/cache/smarty/templates_c/%%03^034^034B9A7D%%DetailView.tpl.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/smarty/templates_c/%%04^045^0453F55B%%ListView.tpl.php" afterPath="$PROJECT_DIR$/cache/smarty/templates_c/%%04^045^0453F55B%%ListView.tpl.php" />
@@ -316,58 +138,31 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/smarty/templates_c/%%11^11D^11D01271%%_headerLastViewed.tpl.php" afterPath="$PROJECT_DIR$/cache/smarty/templates_c/%%11^11D^11D01271%%_headerLastViewed.tpl.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/smarty/templates_c/%%17^17F^17F4E021%%footer.tpl.php" afterPath="$PROJECT_DIR$/cache/smarty/templates_c/%%17^17F^17F4E021%%footer.tpl.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/smarty/templates_c/%%1A^1A9^1A9B32A4%%footer.tpl.php" afterPath="$PROJECT_DIR$/cache/smarty/templates_c/%%1A^1A9^1A9B32A4%%footer.tpl.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/smarty/templates_c/%%23^23F^23FF8AFA%%EditView.tpl.php" afterPath="$PROJECT_DIR$/cache/smarty/templates_c/%%23^23F^23FF8AFA%%EditView.tpl.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/smarty/templates_c/%%24^248^248C46CA%%DetailView.tpl.php" afterPath="$PROJECT_DIR$/cache/smarty/templates_c/%%24^248^248C46CA%%DetailView.tpl.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/smarty/templates_c/%%30^304^30479F35%%DetailView.tpl.php" afterPath="$PROJECT_DIR$/cache/smarty/templates_c/%%30^304^30479F35%%DetailView.tpl.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/smarty/templates_c/%%32^326^32652D0B%%_headerModuleList.tpl.php" afterPath="$PROJECT_DIR$/cache/smarty/templates_c/%%32^326^32652D0B%%_headerModuleList.tpl.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/smarty/templates_c/%%3B^3BA^3BABD3B3%%EditView.tpl.php" afterPath="$PROJECT_DIR$/cache/smarty/templates_c/%%3B^3BA^3BABD3B3%%EditView.tpl.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/smarty/templates_c/%%41^41B^41B80544%%_companyLogo.tpl.php" afterPath="$PROJECT_DIR$/cache/smarty/templates_c/%%41^41B^41B80544%%_companyLogo.tpl.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/smarty/templates_c/%%48^48B^48B4C33F%%DetailView.tpl.php" afterPath="$PROJECT_DIR$/cache/smarty/templates_c/%%48^48B^48B4C33F%%DetailView.tpl.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/smarty/templates_c/%%4D^4D7^4D7DB25E%%ListViewPagination.tpl.php" afterPath="$PROJECT_DIR$/cache/smarty/templates_c/%%4D^4D7^4D7DB25E%%ListViewPagination.tpl.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/smarty/templates_c/%%62^62E^62E293EC%%EditView.tpl.php" afterPath="$PROJECT_DIR$/cache/smarty/templates_c/%%62^62E^62E293EC%%EditView.tpl.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/smarty/templates_c/%%65^65F^65F5B44D%%_welcome.tpl.php" afterPath="$PROJECT_DIR$/cache/smarty/templates_c/%%65^65F^65F5B44D%%_welcome.tpl.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/smarty/templates_c/%%66^664^664FA3FD%%PackageManagerScripts.tpl.php" afterPath="$PROJECT_DIR$/cache/smarty/templates_c/%%66^664^664FA3FD%%PackageManagerScripts.tpl.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/smarty/templates_c/%%6C^6CE^6CEFC0A9%%footer.tpl.php" afterPath="$PROJECT_DIR$/cache/smarty/templates_c/%%6C^6CE^6CEFC0A9%%footer.tpl.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/smarty/templates_c/%%75^759^75901CD0%%SugarVCR.tpl.php" afterPath="$PROJECT_DIR$/cache/smarty/templates_c/%%75^759^75901CD0%%SugarVCR.tpl.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/smarty/templates_c/%%77^773^7733657D%%DetailView.tpl.php" afterPath="$PROJECT_DIR$/cache/smarty/templates_c/%%77^773^7733657D%%DetailView.tpl.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/smarty/templates_c/%%78^786^7862BF8C%%ListViewGeneric.tpl.php" afterPath="$PROJECT_DIR$/cache/smarty/templates_c/%%78^786^7862BF8C%%ListViewGeneric.tpl.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/smarty/templates_c/%%7C^7C0^7C03C2FE%%footer.tpl.php" afterPath="$PROJECT_DIR$/cache/smarty/templates_c/%%7C^7C0^7C03C2FE%%footer.tpl.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/smarty/templates_c/%%85^85B^85B0F62F%%header.tpl.php" afterPath="$PROJECT_DIR$/cache/smarty/templates_c/%%85^85B^85B0F62F%%header.tpl.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/smarty/templates_c/%%90^907^907DE8A4%%_headerSearch.tpl.php" afterPath="$PROJECT_DIR$/cache/smarty/templates_c/%%90^907^907DE8A4%%_headerSearch.tpl.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/smarty/templates_c/%%92^92B^92BA0B0A%%_globalLinks.tpl.php" afterPath="$PROJECT_DIR$/cache/smarty/templates_c/%%92^92B^92BA0B0A%%_globalLinks.tpl.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/smarty/templates_c/%%95^955^955CF478%%header.tpl.php" afterPath="$PROJECT_DIR$/cache/smarty/templates_c/%%95^955^955CF478%%header.tpl.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/smarty/templates_c/%%9A^9A2^9A271045%%index.tpl.php" afterPath="$PROJECT_DIR$/cache/smarty/templates_c/%%9A^9A2^9A271045%%index.tpl.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/smarty/templates_c/%%AF^AF9^AF9D827F%%_headerShortcuts.tpl.php" afterPath="$PROJECT_DIR$/cache/smarty/templates_c/%%AF^AF9^AF9D827F%%_headerShortcuts.tpl.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/smarty/templates_c/%%D4^D4D^D4D49BFB%%PackageForm.tpl.php" afterPath="$PROJECT_DIR$/cache/smarty/templates_c/%%D4^D4D^D4D49BFB%%PackageForm.tpl.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/smarty/templates_c/%%E3^E32^E3280675%%header.tpl.php" afterPath="$PROJECT_DIR$/cache/smarty/templates_c/%%E3^E32^E3280675%%header.tpl.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/smarty/templates_c/%%E6^E6C^E6CB51D1%%SearchFormGeneric.tpl.php" afterPath="$PROJECT_DIR$/cache/smarty/templates_c/%%E6^E6C^E6CB51D1%%SearchFormGeneric.tpl.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/smarty/templates_c/%%ED^EDA^EDA1ACAC%%EditView.tpl.php" afterPath="$PROJECT_DIR$/cache/smarty/templates_c/%%ED^EDA^EDA1ACAC%%EditView.tpl.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/smarty/templates_c/%%EE^EE4^EE47D4F0%%header.tpl.php" afterPath="$PROJECT_DIR$/cache/smarty/templates_c/%%EE^EE4^EE47D4F0%%header.tpl.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/smarty/templates_c/%%FA^FA9^FA908702%%EditView.tpl.php" afterPath="$PROJECT_DIR$/cache/smarty/templates_c/%%FA^FA9^FA908702%%EditView.tpl.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/themes/Sugar5/css/deprecated.css" afterPath="$PROJECT_DIR$/cache/themes/Sugar5/css/deprecated.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/themes/Sugar5/css/style.css" afterPath="$PROJECT_DIR$/cache/themes/Sugar5/css/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/themes/Sugar5/css/yui.css" afterPath="$PROJECT_DIR$/cache/themes/Sugar5/css/yui.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/themes/Sugar5/pathCache.php" afterPath="$PROJECT_DIR$/cache/themes/Sugar5/pathCache.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config_override.php" afterPath="$PROJECT_DIR$/config_override.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/custom/Extension/application/Ext/Include/CustomModules.php" afterPath="$PROJECT_DIR$/custom/Extension/application/Ext/Include/CustomModules.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/custom/Extension/application/Ext/Language/en_us.CustomModules.php" afterPath="$PROJECT_DIR$/custom/Extension/application/Ext/Language/en_us.CustomModules.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/custom/Extension/modules/Users/Ext/Language/en_us.CustomModules.php" afterPath="$PROJECT_DIR$/custom/Extension/modules/Users/Ext/Language/en_us.CustomModules.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/custom/application/Ext/Include/modules.ext.php" afterPath="$PROJECT_DIR$/custom/application/Ext/Include/modules.ext.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/custom/application/Ext/Language/en_us.lang.ext.php" afterPath="$PROJECT_DIR$/custom/application/Ext/Language/en_us.lang.ext.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/custom/application/Ext/TableDictionary/tabledictionary.ext.php" afterPath="$PROJECT_DIR$/custom/application/Ext/TableDictionary/tabledictionary.ext.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/custom/modulebuilder/builds/CustomModules/SugarModules/language/application/en_us.lang.php" afterPath="$PROJECT_DIR$/custom/modulebuilder/builds/CustomModules/SugarModules/language/application/en_us.lang.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/custom/modulebuilder/builds/CustomModules/SugarModules/relationships/language/Users.php" afterPath="$PROJECT_DIR$/custom/modulebuilder/builds/CustomModules/SugarModules/relationships/language/Users.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/custom/modulebuilder/builds/CustomModules/SugarModules/relationships/layoutdefs/cm_custom_module_users_cm_custom_module.php" afterPath="$PROJECT_DIR$/custom/modulebuilder/builds/CustomModules/SugarModules/relationships/layoutdefs/cm_custom_module_users_cm_custom_module.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/custom/modulebuilder/builds/CustomModules/SugarModules/relationships/relationships/cm_custom_module_usersMetaData.php" afterPath="$PROJECT_DIR$/custom/modulebuilder/builds/CustomModules/SugarModules/relationships/relationships/cm_custom_module_usersMetaData.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/custom/modulebuilder/builds/CustomModules/SugarModules/relationships/vardefs/cm_custom_module_users_Users.php" afterPath="$PROJECT_DIR$/custom/modulebuilder/builds/CustomModules/SugarModules/relationships/vardefs/cm_custom_module_users_Users.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/custom/modulebuilder/builds/CustomModules/SugarModules/relationships/vardefs/cm_custom_module_users_cm_custom_module.php" afterPath="$PROJECT_DIR$/custom/modulebuilder/builds/CustomModules/SugarModules/relationships/vardefs/cm_custom_module_users_cm_custom_module.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/custom/modulebuilder/builds/CustomModules/manifest.php" afterPath="$PROJECT_DIR$/custom/modulebuilder/builds/CustomModules/manifest.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/custom/modulebuilder/packages/CustomModules/language/application/en_us.lang.php" afterPath="$PROJECT_DIR$/custom/modulebuilder/packages/CustomModules/language/application/en_us.lang.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/custom/modulebuilder/packages/CustomModules/manifest.php" afterPath="$PROJECT_DIR$/custom/modulebuilder/packages/CustomModules/manifest.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/custom/modules/Users/Ext/Language/en_us.lang.ext.php" afterPath="$PROJECT_DIR$/custom/modules/Users/Ext/Language/en_us.lang.ext.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/custom/modules/Users/Ext/Vardefs/vardefs.ext.php" afterPath="$PROJECT_DIR$/custom/modules/Users/Ext/Vardefs/vardefs.ext.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/custom/modules/Users/metadata/detailviewdefs.php" afterPath="$PROJECT_DIR$/custom/modules/Users/metadata/detailviewdefs.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/custom/modules/Users/metadata/editviewdefs.php" afterPath="$PROJECT_DIR$/custom/modules/Users/metadata/editviewdefs.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/custom/modules/Opportunities/logic_hooks.php" afterPath="$PROJECT_DIR$/custom/modules/Opportunities/logic_hooks.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/include/MySugar/javascript/MySugar.js" afterPath="$PROJECT_DIR$/include/MySugar/javascript/MySugar.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/include/modules.php" afterPath="$PROJECT_DIR$/include/modules.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sugarcrm.log" afterPath="$PROJECT_DIR$/sugarcrm.log" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -393,59 +188,86 @@
     <favorites_list name="sugarcrm" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="cm_TestDashlet.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/modules/cm_Test/Dashlets/cm_TestDashlet/cm_TestDashlet.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1063">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="cm_TestDashlet.meta.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/modules/cm_Test/Dashlets/cm_TestDashlet/cm_TestDashlet.meta.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-799">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="detailviewdefs.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/modules/cm_Test/metadata/detailviewdefs.php">
+        <entry file="file://$PROJECT_DIR$/custom/modules/Test/metadata/detailviewdefs.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="56" column="33" lean-forward="false" selection-start-line="56" selection-start-column="33" selection-end-line="56" selection-end-column="33" />
+            <state relative-caret-position="1135">
+              <caret line="49" column="10" lean-forward="false" selection-start-line="49" selection-start-column="10" selection-end-line="49" selection-end-column="10" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="editviewdefs.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/modules/cm_Test/metadata/editviewdefs.php">
+      <file leaf-file-name="modules.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/include/modules.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-56">
+              <caret line="65" column="0" lean-forward="false" selection-start-line="65" selection-start-column="0" selection-end-line="65" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Call.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/modules/Calls/Call.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-2016">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <marker date="1468458644000" expanded="true" signature="8356:8439" ph="SELECT conta... calls_contacts" />
+                <marker date="1468458644000" expanded="true" signature="12030:12072" ph="SELECT first... contacts" />
+                <marker date="1468458644000" expanded="true" signature="18977:19133" ph="SELECT calls... calls_users" />
+                <marker date="1468458644000" expanded="true" signature="19817:20051" ph="SELECT calls... calls_users" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="modules.ext.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/custom/application/Ext/Include/modules.ext.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="240">
-              <caret line="46" column="33" lean-forward="false" selection-start-line="46" selection-start-column="33" selection-end-line="46" selection-end-column="33" />
+              <caret line="10" column="29" lean-forward="false" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="29" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="listviewdefs.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/modules/cm_Test/metadata/listviewdefs.php">
+      <file leaf-file-name="en_us.lang.ext.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/custom/application/Ext/Language/en_us.lang.ext.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="31">
-              <caret line="11" column="8" lean-forward="false" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
+            <state relative-caret-position="1056">
+              <caret line="44" column="47" lean-forward="false" selection-start-line="44" selection-start-column="47" selection-end-line="44" selection-end-column="47" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="metafiles.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/modules/cm_Test/metadata/metafiles.php">
+      <file leaf-file-name="Test.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/custom/modules/Test/Test.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="144">
+              <caret line="12" column="23" lean-forward="false" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
+              <folding>
+                <element signature="e#6#92#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sugarcrm.log" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sugarcrm.log">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-8278">
+              <caret line="1103" column="307" lean-forward="false" selection-start-line="1103" selection-start-column="307" selection-end-line="1103" selection-end-column="307" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="logichooks.ext.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/custom/application/Ext/LogicHooks/logichooks.ext.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -454,41 +276,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="quickcreatedefs.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/modules/cm_Test/metadata/quickcreatedefs.php">
+      <file leaf-file-name="tabledictionary.ext.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/custom/application/Ext/TableDictionary/tabledictionary.ext.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1104">
-              <caret line="46" column="33" lean-forward="false" selection-start-line="46" selection-start-column="33" selection-end-line="46" selection-end-column="33" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="en_us.lang.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/modules/cm_Test/language/en_us.lang.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="401">
-              <caret line="67" column="13" lean-forward="false" selection-start-line="67" selection-start-column="13" selection-end-line="67" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="dashletviewdefs.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/modules/cm_Test/metadata/dashletviewdefs.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-936">
+            <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="vardefs.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/modules/cm_Test/vardefs.php">
+      <file leaf-file-name="editviewdefs.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/custom/modules/Test/metadata/editviewdefs.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="192">
-              <caret line="41" column="8" lean-forward="false" selection-start-line="41" selection-start-column="8" selection-end-line="41" selection-end-column="8" />
+            <state relative-caret-position="391">
+              <caret line="37" column="10" lean-forward="false" selection-start-line="37" selection-start-column="10" selection-end-line="37" selection-end-column="10" />
               <folding />
             </state>
           </provider>
@@ -499,6 +301,10 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>testf</find>
+      <find>LBL_C</find>
+      <find />
+      <find>LBL</find>
+      <find>log</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -507,20 +313,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/custom/modulebuilder/packages/CustomModules/modules/cm_custom_module/metadata/SearchFields.php" />
-        <option value="$PROJECT_DIR$/modules/Contacts/controller.php" />
-        <option value="$PROJECT_DIR$/modules/Contacts/metadata/searchdefs.php" />
-        <option value="$PROJECT_DIR$/README.md" />
-        <option value="$PROJECT_DIR$/custom/modulebuilder/packages/CustomModules/modules/custom_module/vardefs.php" />
-        <option value="$PROJECT_DIR$/custom/modulebuilder/builds/CustomModules/SugarModules/modules/cm_custom_module/vardefs.php" />
-        <option value="$PROJECT_DIR$/custom/modulebuilder/packages/CustomModules/modules/custom_module/metadata/editviewdefs.php" />
-        <option value="$PROJECT_DIR$/cache/modules/cm_custom_module/cm_custom_modulevardefs.php" />
-        <option value="$PROJECT_DIR$/custom/modulebuilder/builds/CustomModules/SugarModules/modules/cm_custom_module/metadata/listviewdefs.php" />
-        <option value="$PROJECT_DIR$/custom/modulebuilder/builds/CustomModules/SugarModules/modules/cm_custom_module/metadata/editviewdefs.php" />
-        <option value="$PROJECT_DIR$/custom/modulebuilder/builds/CustomModules/SugarModules/modules/cm_custom_module/metadata/detailviewdefs.php" />
-        <option value="$PROJECT_DIR$/custom/modulebuilder/builds/CustomModules/SugarModules/modules/cm_custom_module/cm_custom_module_sugar.php" />
-        <option value="$PROJECT_DIR$/custom/modulebuilder/builds/CustomModules/SugarModules/modules/cm_Test/cm_Test_sugar.php" />
-        <option value="$PROJECT_DIR$/custom/modulebuilder/builds/CustomModules/SugarModules/modules/cm_Test/language/en_us.lang.php" />
         <option value="$PROJECT_DIR$/custom/modulebuilder/builds/CustomModules/SugarModules/modules/cm_Test/metadata/detailviewdefs.php" />
         <option value="$PROJECT_DIR$/custom/modulebuilder/builds/CustomModules/SugarModules/modules/cm_Test/metadata/editviewdefs.php" />
         <option value="$PROJECT_DIR$/custom/modulebuilder/builds/CustomModules/SugarModules/modules/cm_Test/metadata/listviewdefs.php" />
@@ -539,6 +331,39 @@
         <option value="$PROJECT_DIR$/modules/cm_Test/metadata/quickcreatedefs.php" />
         <option value="$PROJECT_DIR$/modules/cm_Test/language/en_us.lang.php" />
         <option value="$PROJECT_DIR$/modules/cm_Test/vardefs.php" />
+        <option value="$PROJECT_DIR$/include/MySugar/javascript/MySugar.js" />
+        <option value="$PROJECT_DIR$/include/utils/LogicHook.php" />
+        <option value="$PROJECT_DIR$/custom/Extension/modules/Oppertunities/Ext/Vardefs/vardefs.ext.php" />
+        <option value="$PROJECT_DIR$/custom/Extension/modules/Oppertunities/Ext/language/en_us.lang.ext.php" />
+        <option value="$PROJECT_DIR$/custom/Extension/modules/Oppertunities/Ext/metadata/detailviewdefs.ext.php" />
+        <option value="$PROJECT_DIR$/custom/Extension/modules/Oppertunities/Ext/metadata/listviewdefs.ext.php" />
+        <option value="$PROJECT_DIR$/cache/modules/Opportunities/Opportunityvardefs.php" />
+        <option value="$PROJECT_DIR$/cache/modules/Opportunities/language/en_us.lang.php" />
+        <option value="$PROJECT_DIR$/custom/modules/Opportunities/Ext/Metadata/listviewdefs.ext.php" />
+        <option value="$PROJECT_DIR$/custom/modules/Opportunities/Ext/Language/en_us.lang.ext.php" />
+        <option value="$PROJECT_DIR$/custom/modules/Opportunities/Ext/Metadata/detailviewdefs.ext.php" />
+        <option value="$PROJECT_DIR$/custom/modules/Opportunities/metadata/detailviewdefs.php" />
+        <option value="$PROJECT_DIR$/custom/modules/Opportunities/metadata/editviewdefs.php" />
+        <option value="$PROJECT_DIR$/custom/Extension/modules/Opportunities/Ext/Vardefs/sugarfield_current_time_2_c.php" />
+        <option value="$PROJECT_DIR$/custom/Extension/modules/Opportunities/Ext/Vardefs/sugarfield_current_time_c.php" />
+        <option value="$PROJECT_DIR$/custom/Extension/modules/Opportunities/Ext/Vardefs/custom_filed_c.php" />
+        <option value="$PROJECT_DIR$/custom/modules/Users/Ext/Language/en_us.lang.ext.php" />
+        <option value="$PROJECT_DIR$/custom/modules/Opportunities/Ext/Vardefs/vardefs.ext.php" />
+        <option value="$PROJECT_DIR$/custom/Extension/modules/Opportunities/Ext/Vardefs/current_time_c.php" />
+        <option value="$PROJECT_DIR$/custom/modules/Opportunities/language/en_us.lang.php" />
+        <option value="$PROJECT_DIR$/custom/modules/Opportunities/Ext/GetCurrentTime.php" />
+        <option value="$PROJECT_DIR$/custom/modules/Opportunities/metadata/listviewdefs.php" />
+        <option value="$PROJECT_DIR$/custom/modules/Opportunities/logic_hooks.php" />
+        <option value="$PROJECT_DIR$/custom/modules/Test/vardefs.php" />
+        <option value="$PROJECT_DIR$/custom/modules/Test/language/en_us.lang.php" />
+        <option value="$PROJECT_DIR$/custom/modules/Test/metadata/listviewdefs.php" />
+        <option value="$PROJECT_DIR$/custom/modules/Test/metadata/editviewdefs.php" />
+        <option value="$PROJECT_DIR$/custom/modules/Test/metadata/detailviewdefs.php" />
+        <option value="$PROJECT_DIR$/include/modules.php" />
+        <option value="$PROJECT_DIR$/custom/application/Ext/Language/en_us.lang.ext.php" />
+        <option value="$PROJECT_DIR$/custom/modules/Test/Test.php" />
+        <option value="$PROJECT_DIR$/sugarcrm.log" />
+        <option value="$PROJECT_DIR$/custom/application/Ext/Include/modules.ext.php" />
       </list>
     </option>
   </component>
@@ -569,7 +394,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -610,7 +435,7 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="cm_Test" />
+              <option name="myItemId" value="Calls" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -624,15 +449,7 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="modules" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="cm_Test" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="metadata" />
+              <option name="myItemId" value="custom" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -646,15 +463,11 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="custom" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="modules" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="cm_Test" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="language" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -668,31 +481,89 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="custom" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="modules" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="cm_Test" />
+              <option name="myItemId" value="Test" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sugarcrm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sugarcrm" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Dashlets" />
+              <option name="myItemId" value="custom" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="cm_TestDashlet" />
+              <option name="myItemId" value="application" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Ext" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sugarcrm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sugarcrm" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="custom" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="application" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Ext" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Include" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="js.eslint.eslintPackage" value="" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Font" />
+    <property name="SearchEverywhereHistoryKey" value="log&#9;null&#9;null&#10;body&#9;null&#9;null&#10;YAHOO.util.History.register&#9;null&#9;null" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../SugarPro-Full-7.7.1.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/custom/Extension/modules/Opportunities/Ext/Metadata" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/custom/modules/Test/metadata" />
+      <recent name="$PROJECT_DIR$/custom/modules/Test" />
+      <recent name="$PROJECT_DIR$/custom/modules/Opportunities/metadata" />
+      <recent name="$PROJECT_DIR$/custom/Extension/modules/Opportunities/Ext/Vardefs" />
+      <recent name="$PROJECT_DIR$/custom/Extension/modules/Opportunities" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
@@ -755,6 +626,9 @@
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
   </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="3d94c49a-2dcc-4453-b388-72410ab649da" name="Default" comment="" />
@@ -766,11 +640,13 @@
       <workItem from="1488518833637" duration="12215000" />
       <workItem from="1488778419627" duration="13250000" />
       <workItem from="1488797854723" duration="4106000" />
+      <workItem from="1488865740762" duration="16060000" />
+      <workItem from="1488949982823" duration="16632000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="37641000" />
+    <option name="totallyTimeSpent" value="70333000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -785,10 +661,11 @@
     <frame x="0" y="24" width="1366" height="744" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26666668" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27575758" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3287037" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32972136" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24924242" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -799,7 +676,6 @@
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3287037" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
@@ -811,40 +687,13 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/custom/modulebuilder/builds/CustomModules/SugarModules/modules/cm_custom_module/cm_custom_module.php" />
-    <entry file="file://$PROJECT_DIR$/custom/modulebuilder/builds/CustomModules/SugarModules/modules/cm_custom_module/metadata/editviewdefs.php" />
-    <entry file="file://$PROJECT_DIR$/custom/modulebuilder/builds/CustomModules/SugarModules/modules/cm_custom_module/metadata/listviewdefs.php" />
-    <entry file="file://$PROJECT_DIR$/custom/modulebuilder/builds/CustomModules/SugarModules/modules/cm_custom_module/metadata/detailviewdefs.php" />
-    <entry file="file://$PROJECT_DIR$/custom/modulebuilder/builds/CustomModules/SugarModules/modules/cm_custom_module/metadata/dashletviewdefs.php" />
-    <entry file="file://$PROJECT_DIR$/custom/modulebuilder/builds/CustomModules/SugarModules/modules/cm_custom_module/metadata/metafiles.php" />
-    <entry file="file://$PROJECT_DIR$/custom/modulebuilder/builds/CustomModules/SugarModules/modules/cm_custom_module/metadata/popupdefs.php" />
-    <entry file="file://$PROJECT_DIR$/custom/modulebuilder/builds/CustomModules/SugarModules/modules/cm_custom_module/metadata/quickcreatedefs.php" />
-    <entry file="file://$PROJECT_DIR$/custom/modulebuilder/builds/CustomModules/SugarModules/modules/cm_custom_module/metadata/searchdefs.php" />
-    <entry file="file://$PROJECT_DIR$/custom/modulebuilder/builds/CustomModules/SugarModules/modules/cm_custom_module/metadata/SearchFields.php" />
-    <entry file="file://$PROJECT_DIR$/custom/modulebuilder/builds/CustomModules/SugarModules/modules/cm_custom_module/metadata/studio.php" />
-    <entry file="file://$PROJECT_DIR$/cache/modules/cm_custom_module/cm_custom_modulevardefs.php" />
-    <entry file="file://$PROJECT_DIR$/custom/modulebuilder/builds/CustomModules/SugarModules/modules/cm_custom_module/cm_custom_module_sugar.php" />
-    <entry file="file://$PROJECT_DIR$/cache/modules/cm_Test/cm_Testvardefs.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-4608">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/custom/modulebuilder/packages/CustomModules/modules/Test/metadata/dashletviewdefs.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-919">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/custom/modulebuilder/packages/CustomModules/modules/Test/metadata/metafiles.php">
+    <entry file="file://$PROJECT_DIR$/custom/Extension/modules/Opportunities/Ext/Metadata/detailviewdefs.ext.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -852,79 +701,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/custom/modulebuilder/packages/CustomModules/modules/Test/metadata/popupdefs.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-792">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/custom/modulebuilder/packages/CustomModules/modules/Test/metadata/SearchFields.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-864">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/custom/modulebuilder/packages/CustomModules/modules/Test/metadata/searchdefs.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-247">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/custom/modulebuilder/builds/CustomModules/SugarModules/modules/cm_Test/cm_Test_sugar.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="624">
-          <caret line="65" column="18" lean-forward="false" selection-start-line="65" selection-start-column="18" selection-end-line="65" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/custom/modulebuilder/builds/CustomModules/SugarModules/modules/cm_Test/language/en_us.lang.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="401">
-          <caret line="67" column="32" lean-forward="false" selection-start-line="67" selection-start-column="32" selection-end-line="67" selection-end-column="32" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/custom/modulebuilder/builds/CustomModules/SugarModules/modules/cm_Test/metadata/detailviewdefs.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="56" column="34" lean-forward="false" selection-start-line="56" selection-start-column="34" selection-end-line="56" selection-end-column="34" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/custom/modulebuilder/builds/CustomModules/SugarModules/modules/cm_Test/metadata/editviewdefs.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="46" column="34" lean-forward="false" selection-start-line="46" selection-start-column="34" selection-end-line="46" selection-end-column="34" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/custom/modulebuilder/builds/CustomModules/SugarModules/modules/cm_Test/metadata/listviewdefs.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="14" column="26" lean-forward="false" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/custom/modulebuilder/builds/CustomModules/SugarModules/modules/cm_Test/vardefs.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-175">
-          <caret line="45" column="26" lean-forward="false" selection-start-line="45" selection-start-column="26" selection-end-line="45" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/custom/modulebuilder/packages/CustomModules/language/application/en_us.lang.php">
+    <entry file="file://$PROJECT_DIR$/custom/Extension/modules/Opportunities/Ext/Metadata/listviewdefs.ext.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -932,15 +709,145 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/custom/modulebuilder/packages/CustomModules/modules/Test/language/en_us.lang.php">
+    <entry file="file://$PROJECT_DIR$/custom/modules/Opportunities/Ext/Metadata/detailviewdefs.ext.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="401">
-          <caret line="67" column="13" lean-forward="false" selection-start-line="67" selection-start-column="13" selection-end-line="67" selection-end-column="13" />
+        <state relative-caret-position="192">
+          <caret line="8" column="2" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="8" selection-end-column="2" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/custom/modulebuilder/packages/CustomModules/modules/Test/config.php">
+    <entry file="file://$PROJECT_DIR$/custom/Extension/modules/Opportunities/Ext/Vardefs/sugarfield_current_time_2_c.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="3" column="88" lean-forward="false" selection-start-line="3" selection-start-column="88" selection-end-line="3" selection-end-column="88" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/custom/Extension/modules/Opportunities/Ext/Vardefs/sugarfield_current_time_c.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/custom/Extension/modules/Opportunities/Ext/Vardefs/custom_filed_c.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" column="83" lean-forward="false" selection-start-line="2" selection-start-column="83" selection-end-line="2" selection-end-column="83" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/custom/modules/Opportunities/metadata/editviewdefs.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="463">
+          <caret line="89" column="10" lean-forward="false" selection-start-line="89" selection-start-column="10" selection-end-line="89" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/custom/modules/Users/Ext/Language/en_us.lang.ext.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="9" column="2" lean-forward="false" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/Opportunities/vardefs.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="40" column="16" lean-forward="false" selection-start-line="40" selection-start-column="8" selection-end-line="40" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/custom/modules/Opportunities/Ext/Vardefs/vardefs.ext.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/custom/Extension/modules/Opportunities/Ext/Vardefs/sugarfield_test_field_c.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/custom/modules/Opportunities/language/en_us.lang.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="3" column="21" lean-forward="false" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/MVC/SugarApplication.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="147" column="8" lean-forward="false" selection-start-line="147" selection-start-column="8" selection-end-line="147" selection-end-column="88" />
+          <folding>
+            <marker date="1468458646000" expanded="true" signature="15787:15944" ph="SELECT count... config" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/SugarLogger/LoggerManager.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="113">
+          <caret line="41" column="6" lean-forward="false" selection-start-line="41" selection-start-column="6" selection-end-line="41" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/Cases/CasesQuickCreate.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-824">
+          <caret line="32" column="16" lean-forward="false" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/Cases/Menu.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-833">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/custom/modules/Opportunities/Ext/GetCurrentTime.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="9" column="26" lean-forward="false" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/custom/Extension/modules/Opportunities/Ext/Metadata/listviewdefs.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="1" column="19" lean-forward="false" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/Opportunities/metadata/listviewdefs.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="40" column="26" lean-forward="false" selection-start-line="40" selection-start-column="19" selection-end-line="40" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/custom/Extension/modules/Opportunities/Ext/Metadata.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -948,91 +855,77 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/custom/modulebuilder/packages/CustomModules/modules/Test/relationships.php">
+    <entry file="file://$PROJECT_DIR$/custom/modules/Opportunities/metadata/detailviewdefs.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-55">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="1800">
+          <caret line="90" column="10" lean-forward="false" selection-start-line="90" selection-start-column="10" selection-end-line="90" selection-end-column="10" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/custom/modulebuilder/packages/CustomModules/modules/Test/vardefs.php">
+    <entry file="file://$PROJECT_DIR$/custom/modules/Opportunities/metadata/listviewdefs.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="535">
-          <caret line="59" column="4" lean-forward="false" selection-start-line="59" selection-start-column="4" selection-end-line="59" selection-end-column="4" />
+        <state relative-caret-position="2071">
+          <caret line="116" column="2" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="116" selection-end-column="2" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/custom/modulebuilder/packages/CustomModules/modules/Test/metadata/detailviewdefs.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="319">
-          <caret line="56" column="34" lean-forward="false" selection-start-line="56" selection-start-column="34" selection-end-line="56" selection-end-column="34" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/custom/modulebuilder/packages/CustomModules/modules/Test/metadata/editviewdefs.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="46" column="34" lean-forward="false" selection-start-line="46" selection-start-column="34" selection-end-line="46" selection-end-column="34" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/custom/modulebuilder/packages/CustomModules/modules/Test/metadata/listviewdefs.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="14" column="26" lean-forward="false" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/custom/modulebuilder/packages/CustomModules/modules/Test/metadata/quickcreatedefs.php">
+    <entry file="file://$PROJECT_DIR$/custom/modules/Opportunities/logic_hooks.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
-          <caret line="45" column="28" lean-forward="false" selection-start-line="45" selection-start-column="28" selection-end-line="45" selection-end-column="28" />
+          <caret line="15" column="27" lean-forward="false" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cache/modules/cm_Test/EditView.tpl">
+    <entry file="file://$PROJECT_DIR$/custom/Extension/modules/Opportunities/Ext/Vardefs/current_time_c.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-456">
-          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="10" selection-end-column="9" />
+        <state relative-caret-position="48">
+          <caret line="2" column="77" lean-forward="false" selection-start-line="2" selection-start-column="77" selection-end-line="2" selection-end-column="77" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cache/modules/cm_Test/language/en_us.lang.php">
+    <entry file="file://$PROJECT_DIR$/custom/Extension/modules/Users/Ext/Language/en_us.CustomModules.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-144">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="72">
+          <caret line="3" column="69" lean-forward="false" selection-start-line="3" selection-start-column="69" selection-end-line="3" selection-end-column="69" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/custom/modulebuilder/builds/CustomModules/SugarModules/modules/cm_Test/metadata/quickcreatedefs.php">
+    <entry file="file://$PROJECT_DIR$/custom/Extension/modules/Users/Ext/Vardefs/cm_test_users_Users.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="46" column="34" lean-forward="false" selection-start-line="46" selection-start-column="34" selection-end-line="46" selection-end-column="34" />
+        <state relative-caret-position="136">
+          <caret line="18" column="42" lean-forward="false" selection-start-line="18" selection-start-column="42" selection-end-line="18" selection-end-column="42" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/custom/modules/cm_Test/Ext/Vardefs/vardefs.ext.php">
+    <entry file="file://$PROJECT_DIR$/custom/Extension/modules/cm_Test/Ext/Layoutdefs/cm_test_users_cm_Test.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="264">
+          <caret line="11" column="9" lean-forward="true" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/config_override.php">
+    <entry file="file://$PROJECT_DIR$/modules/cm_Test/vardefs.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="425">
+          <caret line="70" column="78" lean-forward="true" selection-start-line="67" selection-start-column="0" selection-end-line="70" selection-end-column="78" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/Cases/Case.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-721">
+          <caret line="32" column="16" lean-forward="false" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="16" />
+          <folding>
+            <marker date="1468458644000" expanded="true" signature="10369:10523" ph="SELECT acc.i... accounts" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1044,17 +937,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/modules/cm_Test/cm_Test_sugar.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="65" column="18" lean-forward="false" selection-start-line="65" selection-start-column="18" selection-end-line="65" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/modules/cm_Test/Dashlets/cm_TestDashlet/cm_TestDashlet.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1063">
+        <state relative-caret-position="-1008">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
@@ -1062,37 +947,37 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/modules/cm_Test/Dashlets/cm_TestDashlet/cm_TestDashlet.meta.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-799">
+        <state relative-caret-position="-785">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/modules/cm_Test/metadata/detailviewdefs.php">
+    <entry file="file://$PROJECT_DIR$/modules/Tasks/Dashlets/MyTasksDashlet/MyTasksDashlet.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="56" column="33" lean-forward="false" selection-start-line="56" selection-start-column="33" selection-end-line="56" selection-end-column="33" />
+        <state relative-caret-position="-967">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/modules/cm_Test/metadata/editviewdefs.php">
+    <entry file="file://$PROJECT_DIR$/modules/Tasks/Dashlets/MyTasksDashlet/MyTasksDashlet.meta.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="46" column="33" lean-forward="false" selection-start-line="46" selection-start-column="33" selection-end-line="46" selection-end-column="33" />
+        <state relative-caret-position="-689">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/modules/cm_Test/metadata/listviewdefs.php">
+    <entry file="file://$PROJECT_DIR$/modules/Tasks/Dashlets/MyTasksDashlet/MyTasksDashlet.data.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="31">
-          <caret line="11" column="8" lean-forward="false" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
+        <state relative-caret-position="-1944">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/modules/cm_Test/metadata/metafiles.php">
+    <entry file="file://$PROJECT_DIR$/modules/cm_Test/language/en_us.lang.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -1100,34 +985,129 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/modules/cm_Test/metadata/quickcreatedefs.php">
+    <entry file="file://$PROJECT_DIR$/modules/cm_Test/cm_Test_sugar.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1104">
-          <caret line="46" column="33" lean-forward="false" selection-start-line="46" selection-start-column="33" selection-end-line="46" selection-end-column="33" />
+        <state relative-caret-position="425">
+          <caret line="75" column="1" lean-forward="true" selection-start-line="70" selection-start-column="4" selection-end-line="75" selection-end-column="1" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/modules/cm_Test/language/en_us.lang.php">
+    <entry file="file://$PROJECT_DIR$/custom/modules/Test/vardefs.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="401">
-          <caret line="67" column="13" lean-forward="false" selection-start-line="67" selection-start-column="13" selection-end-line="67" selection-end-column="13" />
+        <state relative-caret-position="264">
+          <caret line="11" column="45" lean-forward="false" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="45" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/modules/cm_Test/metadata/dashletviewdefs.php">
+    <entry file="file://$PROJECT_DIR$/custom/modules/Test/language/en_us.lang.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-936">
+        <state relative-caret-position="528">
+          <caret line="67" column="26" lean-forward="false" selection-start-line="67" selection-start-column="26" selection-end-line="67" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/custom/modules/Test/metadata/listviewdefs.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/custom/modules/Test/metadata/editviewdefs.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="37" column="10" lean-forward="false" selection-start-line="37" selection-start-column="10" selection-end-line="37" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/custom/modules/Test/metadata/detailviewdefs.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1135">
+          <caret line="49" column="10" lean-forward="false" selection-start-line="49" selection-start-column="10" selection-end-line="49" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/custom/application/Ext/LogicHooks/logichooks.ext.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/modules/cm_Test/vardefs.php">
+    <entry file="file://$PROJECT_DIR$/custom/application/Ext/TableDictionary/tabledictionary.ext.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="41" column="8" lean-forward="false" selection-start-line="41" selection-start-column="8" selection-end-line="41" selection-end-column="8" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sugar_version.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/custom/application/Ext/Language/en_us.lang.ext.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1056">
+          <caret line="44" column="47" lean-forward="false" selection-start-line="44" selection-start-column="47" selection-end-line="44" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/custom/modules/Test/Test.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="12" column="23" lean-forward="false" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
+          <folding>
+            <element signature="e#6#92#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sugarcrm.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8278">
+          <caret line="1103" column="307" lean-forward="false" selection-start-line="1103" selection-start-column="307" selection-end-line="1103" selection-end-column="307" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/modules.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-56">
+          <caret line="65" column="0" lean-forward="false" selection-start-line="65" selection-start-column="0" selection-end-line="65" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/Calls/Call.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2016">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1468458644000" expanded="true" signature="8356:8439" ph="SELECT conta... calls_contacts" />
+            <marker date="1468458644000" expanded="true" signature="12030:12072" ph="SELECT first... contacts" />
+            <marker date="1468458644000" expanded="true" signature="18977:19133" ph="SELECT calls... calls_users" />
+            <marker date="1468458644000" expanded="true" signature="19817:20051" ph="SELECT calls... calls_users" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/custom/application/Ext/Include/modules.ext.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="10" column="29" lean-forward="false" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="29" />
           <folding />
         </state>
       </provider>

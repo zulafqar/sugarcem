@@ -10,5 +10,11 @@ $hook_array['after_ui_frame'] = Array();
 $hook_array['after_ui_frame'][] = Array(1, 'Opportunities InsideView frame', 'modules/Connectors/connectors/sources/ext/rest/insideview/InsideViewLogicHook.php','InsideViewLogicHook', 'showFrame'); 
 
 
+$hook_array['after_retrieve'][] = Array(1, 'Get current time and display', 'custom/modules/Opportunities/Ext/GetCurrentTime.php','GetCurrentTime', 'getTime');
+
+
+$hook_array['process_record'][] = Array(1, 'Get current time and display', 'custom/modules/Opportunities/Ext/GetCurrentTime.php','GetCurrentTime', 'getTime');
+
+
 
 ?>

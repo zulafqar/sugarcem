@@ -1,8 +1,4 @@
-<?php /* Smarty version 2.6.11, created on 2017-03-08 08:02:16
-         compiled from include/SugarFields/Fields/Relate/DetailView.tpl */ ?>
-<?php require_once(SMARTY_CORE_DIR . 'core.load_plugins.php');
-smarty_core_load_plugins(array('plugins' => array(array('function', 'sugarvar', 'include/SugarFields/Fields/Relate/DetailView.tpl', 39, false),array('function', 'sugarvar_connector', 'include/SugarFields/Fields/Relate/DetailView.tpl', 49, false),)), $this); ?>
-{*
+<?php
 /*********************************************************************************
  * SugarCRM Community Edition is a customer relationship management program developed by
  * SugarCRM, Inc. Copyright (C) 2004-2013 SugarCRM Inc.
@@ -38,26 +34,36 @@ smarty_core_load_plugins(array('plugins' => array(array('function', 'sugarvar', 
  * "Powered by SugarCRM".
  ********************************************************************************/
 
-*}
-<?php if (! $this->_tpl_vars['nolink'] && ! empty ( $this->_tpl_vars['vardef']['id_name'] )): ?> 
-{if !empty(<?php echo smarty_function_sugarvar(array('memberName' => 'vardef.id_name','key' => 'value','string' => 'true'), $this);?>
-)}
-{capture assign="detail_url"}index.php?module=<?php echo $this->_tpl_vars['vardef']['module']; ?>
-&action=DetailView&record=<?php echo smarty_function_sugarvar(array('memberName' => 'vardef.id_name','key' => 'value'), $this);?>
-{/capture}
-<a href="{sugar_ajax_url url=$detail_url}">{/if}
-<?php endif; ?>
-<span id="<?php echo $this->_tpl_vars['vardef']['id_name']; ?>
-" class="sugar_field" data-id-value="<?php echo smarty_function_sugarvar(array('memberName' => 'vardef.id_name','key' => 'value'), $this);?>
-"><?php echo smarty_function_sugarvar(array('key' => 'value'), $this);?>
-</span>
-<?php if (! $this->_tpl_vars['nolink'] && ! empty ( $this->_tpl_vars['vardef']['id_name'] )): ?>
-{if !empty(<?php echo smarty_function_sugarvar(array('memberName' => 'vardef.id_name','key' => 'value','string' => 'true'), $this);?>
-)}</a>{/if}
-<?php endif;  if (! empty ( $this->_tpl_vars['displayParams']['enableConnectors'] ) && ! empty ( $this->_tpl_vars['vardef']['id_name'] )): ?>
-{if !empty(<?php echo smarty_function_sugarvar(array('memberName' => 'vardef.id_name','key' => 'value','string' => 'true'), $this);?>
-)}
-<?php echo smarty_function_sugarvar_connector(array('view' => 'DetailView'), $this);?>
- 
-{/if}
-<?php endif; ?>
+$mod_strings = array (
+  'LBL_ASSIGNED_TO_ID' => 'Assigned User Id',
+  'LBL_ASSIGNED_TO_NAME' => 'Assigned to',
+  'LBL_ID' => 'ID',
+  'LBL_DATE_ENTERED' => 'Date Created',
+  'LBL_DATE_MODIFIED' => 'Date Modified',
+  'LBL_MODIFIED' => 'Modified By',
+  'LBL_MODIFIED_ID' => 'Modified By Id',
+  'LBL_MODIFIED_NAME' => 'Modified By Name',
+  'LBL_CREATED' => 'Created By',
+  'LBL_CREATED_ID' => 'Created By Id',
+  'LBL_DESCRIPTION' => 'Description',
+  'LBL_DELETED' => 'Deleted',
+  'LBL_NAME' => 'Name',
+  'LBL_CREATED_USER' => 'Created by User',
+  'LBL_MODIFIED_USER' => 'Modified by User',
+  'LBL_LIST_NAME' => 'Name',
+  'LBL_EDIT_BUTTON' => 'Edit',
+  'LBL_REMOVE' => 'Remove',
+  'LBL_LIST_FORM_TITLE' => 'Test Module List',
+  'LBL_MODULE_NAME' => 'Test Module',
+  'LBL_MODULE_TITLE' => 'Test Module',
+  'LBL_HOMEPAGE_TITLE' => 'My Test Module',
+  'LNK_NEW_RECORD' => 'Create Test Module',
+  'LNK_LIST' => 'View Test Module',
+  'LNK_IMPORT_CM_TEST' => 'Import Test Module',
+  'LBL_SEARCH_FORM_TITLE' => 'Search Test Module',
+  'LBL_HISTORY_SUBPANEL_TITLE' => 'View History',
+  'LBL_ACTIVITIES_SUBPANEL_TITLE' => 'Activities',
+  'LBL_CM_TEST_SUBPANEL_TITLE' => 'Test Module',
+  'LBL_NEW_FORM_TITLE' => 'New Test Module',
+  'LBL_TEST_NAME' => 'Name',
+);
